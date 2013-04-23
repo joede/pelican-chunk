@@ -17,6 +17,7 @@ My intension for this fork is a modification to fit my needs. I plan to make the
 ## Authors
 * [Tran (thisistran) on Twitter](http://twitter.com/#!/thisistran) (Original Wordpress)
 * [tBunnyMan](http://bunnyman.info) (Pelican v1.0)
+* [joede](https://github.com/joede) (my modifications)
 
 ## Licence
 Modified and released under the GNU General Public License, full details in `LICENSE.txt` file.
